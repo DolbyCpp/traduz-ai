@@ -174,7 +174,7 @@ Eu tenho certeza que você passaria por maus bocados tentando reescrever a funç
 
 ## Então, vamos começar
 
-Exite muito conteúdo por aí falando sobre Programação Funcional, mas alguns que você não pode perder são:
+Existe muito conteúdo por aí falando sobre Programação Funcional, mas alguns que você não pode perder são:
 
 * [Principles of Functional Programming in Scala](https://www.coursera.org/course/progfun)
 
